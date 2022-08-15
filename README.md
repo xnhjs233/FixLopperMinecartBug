@@ -1,1 +1,2 @@
 # FixLopperMinecartBug
+阻止漏斗矿车从容器中吸取物品以防止玩家在游戏内刷物品
